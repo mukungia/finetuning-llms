@@ -1,5 +1,0 @@
-In this file we hold all the required libraries and packages for our project
-transformers==4.20.0
-gradio==3.10.0
-torch==1.12.0
-numpy==1.22.3
